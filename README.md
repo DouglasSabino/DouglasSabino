@@ -6,7 +6,7 @@
   
 <img align="right" width=300px alt="Intro" src="https://c.tenor.com/W9_8dfFmyr0AAAAM/pixel-game.gif" />
   
-##  𝐒𝐨𝐮 𝐮𝐦𝐚 𝐩𝐞𝐬𝐬𝐨𝐚 𝐚𝐩𝐚𝐢𝐱𝐨𝐧𝐚𝐝𝐚 𝐩𝐨𝐫 𝐭𝐞𝐜𝐧𝐨𝐥𝐨𝐠𝐢𝐚, 𝐚𝐭𝐮𝐚𝐥𝐦𝐞𝐧𝐭𝐞 𝐞𝐬𝐭𝐮𝐝𝐨 𝐧𝐚 𝐓𝐫𝐲𝐛𝐞 𝐮𝐦𝐚 𝐞𝐬𝐜𝐨𝐥𝐚 𝐝𝐞 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐚çã𝐨 𝐟𝐮𝐥𝐥 𝐬𝐭𝐚𝐜𝐤 𝐪𝐮𝐞 𝐨𝐟𝐞𝐫𝐞𝐜𝐞 𝐮𝐦 𝐜𝐮𝐫𝐬𝐨 𝐪𝐮𝐞 é 𝐝𝐢𝐯𝐢𝐝𝐢𝐝𝐨 𝐞𝐦 𝟒 𝐦ó𝐝𝐮𝐥𝐨𝐬: 𝐅𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐨𝐬, 𝐃𝐞𝐬𝐞𝐧𝐯𝐨𝐥𝐯𝐢𝐦𝐞𝐧𝐭𝐨 𝐟𝐫𝐨𝐧𝐭-𝐞𝐧𝐝, 𝐝𝐞𝐬𝐞𝐧𝐯𝐨𝐥𝐯𝐢𝐦𝐞𝐧𝐭𝐨 𝐛𝐚𝐜𝐤-𝐞𝐧𝐝 𝐞 𝐂𝐢𝐞𝐧𝐜𝐢𝐚 𝐝𝐚 𝐜𝐨𝐦𝐩𝐮𝐭𝐚çã𝐨, 𝐚𝐭𝐮𝐚𝐥𝐦𝐞𝐧𝐭𝐞 𝐞𝐬𝐭𝐨𝐮 𝐢𝐧𝐢𝐜𝐢𝐚𝐧𝐝𝐨 𝐨 𝟑° 𝐦𝐨𝐝𝐮𝐥𝐨 𝐛𝐚𝐜𝐤-𝐞𝐧𝐝 𝐞 𝐣á 𝐞𝐬𝐭𝐮𝐝𝐞𝐢 𝐭𝐞𝐜𝐧𝐨𝐥𝐨𝐠𝐢𝐚𝐬 𝐜𝐨𝐦𝐨: 𝐇𝐓𝐌𝐋, 𝐂𝐒𝐒, 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭, 𝐑𝐞𝐚𝐜𝐭, 𝐍𝐨𝐝𝐞𝐉𝐬, 𝐋𝐢𝐧𝐮𝐱, 𝐆𝐢𝐭 𝐞 𝐆𝐢𝐭𝐇𝐮𝐛
+## Sou uma pessoa apaixonada por tecnologia, atualmente estudo na Trybe uma escola de programação full stack que oferece um curso que é dividido em 4 módulos: Fundamentos, Desenvolvimento front-end, desenvolvimento back-end e Ciência da computação, atualmente estou próximo ao fim do 3° modulo e intensificando minha procura por emprego, após quase 10 meses de muito aprendizado e desenvolvimento das minhas hard e softkills através de dezenas de projetos técnicos e dinâmicas em grupo me sinto pronto para dar esse passo tão importante na minha carreira.
   
 <hr>
 <p align="center">
