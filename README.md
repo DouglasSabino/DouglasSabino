@@ -22,12 +22,13 @@
   <br>
   
   <p align="center">
-    <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo.png" alt="HTML" width="80px">
-    <img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo.png" alt="CSS" width="80px">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="80px">
-      <img src="https://miro.medium.com/max/1400/1*HBoFpeOTCuIDQMKsSpYN7A.png" alt="React / Redux" width="200px">
-       <img src="https://www.shareicon.net/data/128x128/2016/06/20/606964_github_4096x4096.png" alt="linux" width="100px">
-    <img src="https://logosmarcas.net/wp-content/uploads/2020/09/Linux-Logo-650x366.png" alt="linux" width="180px">
- 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="80px">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="80px">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="80px">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React" width="80px">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="Mysql" width="80px">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="NodeJS" width="80px">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="80px">
+    <img src="" alt="" width="80px">
   </p>
   
