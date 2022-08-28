@@ -30,6 +30,6 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="Mysql" width="80px">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="NodeJS" width="80px">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="80px">
-     <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--YORpNZ5O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y5clicw559gztoxmzowp.png" alt="Linux" width="80px">
+    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--YORpNZ5O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y5clicw559gztoxmzowp.png" alt="Linux" width="70px">
     <img src="https://img.icons8.com/color/344/linux--v1.png" alt="Linux" width="80px">
   </p>
