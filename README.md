@@ -6,9 +6,9 @@
   
 <img align="right" width=300px alt="Intro" src="https://c.tenor.com/W9_8dfFmyr0AAAAM/pixel-game.gif" />
   
-### Olá, me chamo chamo Douglas Sabino venho de Recife e tenho 26 anos de idade, sou uma pessoa apaixonada por tecnologia e movido a desafios. Desenvolvedor fullstack jr. , tenho conhecimentos sólidos em Linguagens e frameworks como JavaScript, TypeScipt, React,context API, Redux, Node, express e MySql,conhecimento basico na ORM Sequelize, em Docker, na PaaS Heroku e no framework de teste Jest, uma tecnoliga que ainda não estudei sobre, mas, pretendo em um futuro proximo, seria a AWS.
+### Olá, me chamo chamo Douglas Sabino venho de Recife e tenho 26 anos de idade, sou uma pessoa apaixonada por tecnologia e movido a desafios. Desenvolvedor fullstack jr. , tenho conhecimentos sólidos em Linguagens e frameworks como JavaScript, TypeScipt, React, context API, Redux, Node, express e MySql, conhecimento basico na ORM Sequelize, em Docker, na PaaS Heroku e no framework de teste Jest, uma tecnoliga que ainda não estudei sobre mas pretendo em um futuro proximo, seria a AWS.
   
-### Tenho proatividade e fome de aprender, tenho boa convivência em grupo, acho que é importante reconhecer o espaço do outro, acredito que todos nós podemos e devemos deixar nossa colaboração para um mundo melhor e mais justo, minha parte pretendo fazer através da tecnologia e de todas as grandezas que ela nos proporciona. 
+### Tenho proatividade e fome de aprender, tenho boa convivência em grupo, acho que é importante reconhecer o espaço do outro, acredito que todos nós podemos e devemos deixar nossa colaboração para um mundo melhor e mais justo, minha parte pretendo fazer através da tecnologia e de todas as possibilidades que ela nos proporciona. 
   
 <hr>
 <p align="center">
